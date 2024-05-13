@@ -1,12 +1,13 @@
 
 [
 	{
-		"name": "Elite",
+		"name": "Wow",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
+		    "Unbuildable <for [AI player]>",
 		    "May choose [2] additional [Any] beliefs when [founding] a religion <for [Human player]>",
 		    "Gain enough Faith for a Pantheon <for [Human player]>"]
 	},
